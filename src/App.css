@@ -1,0 +1,58 @@
+*{
+  margin:0;
+  border:0;
+  box-sizing: border-box;
+}
+.btn-primary,
+.form-width,
+.container-fluid{
+  margin-left:1vw;
+
+}
+
+.form-width{
+  width:80vw;
+}
+
+.container-fluid{
+  border:2px solid black;
+  width:80vw;
+  border-radius:15px;
+}
+ ul li{
+  list-style-type: none;
+ }
+
+ .color1{
+  background-color:aqua;
+  width:97%;
+ }
+ .color2{
+  background-color:aquamarine;
+ }
+ .color3{
+  background-color:burlywood;
+ }
+ .color4{
+  background-color:chartreuse;
+ }
+ .color5{
+  background-color:darkolivegreen;
+ }
+ .color6{
+  background-color:darksalmon;
+ }
+ .color7{
+  background-color:khaki;
+ }
+ .color8{
+  background-color:green;
+ }
+ .color9{
+  background-color:yellowgreen;
+ }
+ .color10{
+  background-color:thistle;
+ }
+
+
